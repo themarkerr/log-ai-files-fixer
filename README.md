@@ -28,3 +28,4 @@ sh file-fixer.sh <bucket name here>
 ## further reading
 
 - <https://github.com/FasterXML/jackson-modules-java8#jackson-30>
+- <https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html#using-s3-commands-managing-objects-copy>
