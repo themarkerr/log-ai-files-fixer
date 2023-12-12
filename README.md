@@ -15,7 +15,7 @@ This repo has a script to correct this if necessary so timestamps look like this
 
 ## requirements
 
-- proper aws credentials
+- aws cli and proper aws credentials
 - node.js
 - bash
 
