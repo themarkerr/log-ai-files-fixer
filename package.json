@@ -1,0 +1,13 @@
+{
+  "name": "log-ai-files-fixer",
+  "version": "1.0.0",
+  "description": "Some summary files where created with strange timestamps (thanks [jackson](https://github.com/FasterXML/jackson))",
+  "main": "index.js",
+  "scripts": {
+    "test1": "node file-fixer.mjs json-test-1.json",
+    "test2": "node file-fixer.mjs json-test-2.json",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
